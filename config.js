@@ -23,7 +23,7 @@ window.CONFIG = {
 
   /* ---- 1. Accueil ---- */
   accueil: {
-    photo: "photos/couple.jpg",
+    photo: "Couple.jpg",
     photoAlt: "Don Veral et Leslie",
     surtitre: "Nous nous marions",
     phrase: "C’est avec une immense joie que nous vous invitons à célébrer le plus beau jour de notre vie, entourés de celles et ceux qui nous sont chers.",
@@ -49,11 +49,11 @@ window.CONFIG = {
   galerie: {
     titre: "Nos moments",
     photos: [
-      { src: "photos/galerie-1.jpg", alt: "Don Veral et Leslie, souvenir 1" },
-      { src: "photos/galerie-2.jpg", alt: "Don Veral et Leslie, souvenir 2" },
-      { src: "photos/galerie-3.jpg", alt: "Don Veral et Leslie, souvenir 3" },
-      { src: "photos/galerie-4.jpg", alt: "Don Veral et Leslie, souvenir 4" },
-      { src: "photos/galerie-5.jpg", alt: "Don Veral et Leslie, souvenir 5" }
+      { src: "galerie-1.jpg", alt: "Don Veral et Leslie, souvenir 1" },
+      { src: "galerie-2.jpg", alt: "Don Veral et Leslie, souvenir 2" },
+      { src: "galerie-3.jpg", alt: "Don Veral et Leslie, souvenir 3" },
+      { src: "galerie-4.jpg", alt: "Don Veral et Leslie, souvenir 4" },
+      { src: "galerie-5.jpg", alt: "Don Veral et Leslie, souvenir 5" }
     ]
   },
 
